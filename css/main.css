@@ -285,3 +285,9 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.vericaltext{
+           width:1px;
+           word-wrap: break-word;
+           white-space:pre-wrap; 
+        }
